@@ -1,0 +1,48 @@
+.menu {
+    width: 420px;
+    height: 300px;
+    background-size: cover;
+    background-color: #9C4A00;
+    border: 2px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 30px 40px;
+    margin-left: 350px;
+    margin-top: 50px;
+    position: absolute;
+    justify-content: center;
+}
+
+h1 {
+    font-weight: 1000;
+    font-size: 50px;
+    margin-bottom: 10px;
+    -webkit-text-stroke: 2px black;
+}
+
+button {
+    position: relative;
+    cursor: pointer;
+    width: 420px;
+    height: 40px;
+    margin: 10px 0;
+    font-family: 'upheaval', sans-serif;
+    font-weight: 100;
+    font-size: 17px;
+    border: 2px solid rgba(255, 255, 255, .2);
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+}
+
+button:hover {
+    background-color: #3fa932;
+}
+
+/*
+
+#109400
+*/

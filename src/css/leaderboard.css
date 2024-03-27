@@ -1,0 +1,28 @@
+.leaderboardTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.leaderboardTable th,
+.leaderboardTable td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.leaderboardTable th {
+    background-color: #3fa932;
+;
+    font-weight: bold;
+}
+
+.leaderboardTable tbody tr:nth-child(even) {
+    background-color: black;
+}
+
+.leaderboardTable tbody tr:nth-child(odd) {
+    background-color: gray;
+}
+
+/*.leaderboardTable tbody tr:hover {
+    background-color: #ddd;
+}*/

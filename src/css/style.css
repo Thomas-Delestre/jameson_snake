@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'upheaval';
+	src: url('../fonts/Upheaval.fon') format('font'),
+		url('../fonts/upheavtt.ttf') format('truetype')
+}
+body {
+	font-family: 'upheaval', sans-serif;
+}
+
+* {
+    margin-left: 0;
+    margin-top: 0;
+}
+
+/* .game_window {
+    border-radius: 2px ;
+    border-width: 2px ;
+    
+    border: solid;
+
+    border-color: black;
+}*/
